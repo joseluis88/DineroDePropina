@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiempo de propina</string>
+    <string name="calculate_tip">Calcular propina</string>
+    <string name="bill_amount">Total de la factura</string>
+    <string name="tip_amount">Dinero de propina: %s</string>
+</resources>
